@@ -1,0 +1,8 @@
+:root { color-scheme: light dark; --accent: #0a84ff; }
+body { font: 17px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; max-width: 680px; margin: 0 auto; padding: 48px 20px 80px; }
+h1 { font-size: 2.2em; margin-bottom: 0.1em; }
+h2 { margin-top: 1.8em; font-size: 1.25em; }
+.tagline { color: GrayText; font-size: 1.15em; margin-top: 0; }
+a { color: var(--accent); }
+ul.points { padding-left: 1.2em; }
+footer { margin-top: 3em; font-size: 0.9em; color: GrayText; }
